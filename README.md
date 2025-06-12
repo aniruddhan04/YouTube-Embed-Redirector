@@ -42,11 +42,6 @@ A lightweight Chrome extension that automatically redirects YouTube `watch?v=` l
 * `webNavigation`: To listen for navigation events across YouTube URLs.
 * Host permissions `*://*.youtube.com/*`: To intercept and redirect all watch pages.
 
-
-* Fork the repository.
-* Create a new branch for your feature or bug fix.
-* Submit a pull request with a clear description of your changes.
-
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
